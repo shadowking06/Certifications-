@@ -28,8 +28,6 @@ I successfully completed the **Data Analytics and Visualization** simulation wit
 
 ## 🚀 Skills & Tools
 
-- **Data Cleaning & Modeling**: Python, Pandas, Excel
-- **Data Analysis**: SQL, Tableau, Data Visualization
 - **Client Communication**: PowerPoint, Video Editing
 - **Communication**
 - **Data Analysis**
