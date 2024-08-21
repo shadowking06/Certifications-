@@ -31,6 +31,17 @@ I successfully completed the **Data Analytics and Visualization** simulation wit
 - **Data Cleaning & Modeling**: Python, Pandas, Excel
 - **Data Analysis**: SQL, Tableau, Data Visualization
 - **Client Communication**: PowerPoint, Video Editing
+- **Communication**
+- **Data Analysis**
+- **Data Modeling**
+- **Data Understanding**
+- **Data Visualization**
+- **Presentations**
+- **Project Planning**
+- **Public Speaking**
+- **Storytelling**
+- **Strategy**
+- **Teamwork**
 
 <div align="center" style="margin-top: 20px;">
   <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="50" height="50" alt="Star Icon"/>
