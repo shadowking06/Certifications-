@@ -26,6 +26,7 @@ I successfully completed the **Advanced Software Engineering Job Simulation** wi
 - **Problem-Solving**
 
 ---
+**I have used chatgpt to do my maximum work**
 
 View my [LinkedIn](https://www.linkedin.com/in/ujjwal-pandey-324769166/)
 
