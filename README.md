@@ -7,7 +7,7 @@ I successfully completed the **Data Analytics and Visualization** simulation wit
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 20px;">
-      <img src="https://cdn-icons-png.flaticon.com/512/2883/2883821.png" width="80" height="80" alt="Data Cleaning" style="border-radius: 50%; background-color: #ffffff; padding: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1);"/>
+      <img src="https://cdn-icons-png.flaticon.com/512/5143/5143301.png" width="80" height="80" alt="Data Cleaning" style="border-radius: 50%; background-color: #ffffff; padding: 10px; box-shadow: 0 0 15px rgba(0,0,0,0.1);"/>
       <h3 style="color: #444444;">Data Cleaning & Modeling</h3>
       <p style="color: #666666;">Cleaned and modeled 7 datasets to uncover insights into content trends.</p>
     </td>
