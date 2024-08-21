@@ -7,49 +7,38 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f0f4f8;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
             display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
-            margin: 0;
         }
-        .message-container {
-            background-color: #ffffff;
-            border-radius: 8px;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-            padding: 20px;
-            max-width: 600px;
+        .container {
             text-align: center;
-            position: relative;
+            padding: 20px;
+            border-radius: 8px;
+            background-color: #ffffff;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         }
-        .message-container img {
-            width: 100px;
-            height: auto;
-            margin-bottom: 20px;
-        }
-        .message-container h1 {
-            color: #4CAF50;
-            font-size: 24px;
-            margin-bottom: 10px;
-        }
-        .message-container p {
+        .message {
+            font-size: 1.25em;
             color: #333;
-            font-size: 18px;
             margin: 0;
+            padding: 10px;
         }
         .icon {
-            font-size: 50px;
-            color: #4CAF50;
+            font-size: 2em;
+            color: #4caf50;
             margin-bottom: 10px;
         }
     </style>
 </head>
 <body>
-    <div class="message-container">
-        <img src="https://via.placeholder.com/100x100?text=Certificate" alt="Certificate Icon">
-        <h1>Certificates Successfully Listed!</h1>
-        <p>All the certificates have been systematically categorized and listed in their respective branches. Please check the relevant branch for a detailed view of each certificate.</p>
+    <div class="container">
+        <div class="icon">🎓</div>
+        <p class="message">All certificates have been systematically listed across all branches.</p>
     </div>
 </body>
 </html>
