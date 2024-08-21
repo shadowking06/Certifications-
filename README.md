@@ -21,6 +21,12 @@
             padding: 20px;
             max-width: 600px;
             text-align: center;
+            position: relative;
+        }
+        .message-container img {
+            width: 100px;
+            height: auto;
+            margin-bottom: 20px;
         }
         .message-container h1 {
             color: #4CAF50;
@@ -41,14 +47,9 @@
 </head>
 <body>
     <div class="message-container">
-        <div class="icon">&#128178;</div>
+        <img src="https://via.placeholder.com/100x100?text=Certificate" alt="Certificate Icon">
         <h1>Certificates Successfully Listed!</h1>
         <p>All the certificates have been systematically categorized and listed in their respective branches. Please check the relevant branch for a detailed view of each certificate.</p>
     </div>
-
-    <script>
-        // JavaScript code can be added here if needed for dynamic updates
-        // For now, it's just a static message
-    </script>
 </body>
 </html>
