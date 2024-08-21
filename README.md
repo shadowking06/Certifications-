@@ -1,7 +1,5 @@
 🏆 Walmart USA's Advanced Software Engineering - Forage
 
-![Walmart USA](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Walmart_logo.svg/1024px-Walmart_logo.svg.png)
-
 I successfully completed the **Advanced Software Engineering Job Simulation** with Walmart USA on Forage, where I tackled challenging technical projects across various teams. Below are some of the key projects I worked on:
 
 ### 🔧 Key Projects
@@ -29,14 +27,6 @@ I successfully completed the **Advanced Software Engineering Job Simulation** wi
 
 ---
 
-**View my [LinkedIn](https://www.linkedin.com/in/ujjwal-pandey-324769166/)
+View my [LinkedIn](https://www.linkedin.com/in/ujjwal-pandey-324769166/)
 
-![Forage Logo](https://uploads-ssl.webflow.com/6050a6b3a7c15d7c3c8a4dcd/607f4e0f24df95d14b05ef65_Forage%20logo.png)
-```
-
-Explanation:
-- **Images**: I included Walmart and Forage logos to add visual appeal.
-- **Headings**: Used headings (`##`, `###`) to structure the content clearly.
-- **Bulleted Lists**: Summarized your work in a clear, concise list format.
-- **Skills Section**: Highlighted the skills demonstrated in the projects.
 
