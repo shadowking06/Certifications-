@@ -42,7 +42,7 @@ I successfully completed the **Data Analytics and Visualization** simulation wit
 - **Teamwork**
 
 <div align="center" style="margin-top: 20px;">
-  <img src="https://cdn-icons-png.flaticon.com/512/2991/2991148.png" width="50" height="50" alt="Star Icon"/>
+  <img src="https://www.theforage.com/dashboard" width="50" height="50" alt="Star Icon"/>
   <h2 style="color: #333333;">Accenture North America Data Analyst Certification</h2>
   <p style="color: #666666;">Certified in Data Analytics and Visualization with a focus on strategic decision-making for social media clients.</p>
 </div>
